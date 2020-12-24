@@ -1,0 +1,1 @@
+# goPreCommitHook
